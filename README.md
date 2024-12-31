@@ -16,7 +16,7 @@ This is a frontend application for managing orders and products.
 
 1. Clone this repository to your local machine:
 
-git clone https://github.com/nikkk456/ERP-Management
+git clone [https://github.com/nikkk456/ERP-Managemen](https://github.com/THAMATAM-BALAJI/Entint_test)
 
 2. Navigate to the project directory:
 
