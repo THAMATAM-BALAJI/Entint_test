@@ -1,0 +1,66 @@
+[
+    {
+      "order_id": 1,
+      "name": "Chaitanya",
+      "date": "2024-05-10",
+      "status": "Shipped",
+      "total_amount":"400",
+      "expected_delivery": "2024-05-16",
+      "products": [
+        {"product_id": 1, "quantity": 2},
+        {"product_id": 3, "quantity": 1},
+        {"product_id": 5, "quantity": 3}
+      ]
+    },
+    {
+      "order_id": 2,
+      "name": "Balaji",
+      "date": "2024-05-20",
+      "status": "Processing",
+      "total_amount":"270",
+      "expected_delivery": "2024-05-26",
+      "products": [
+        {"product_id": 2, "quantity": 1},
+        {"product_id": 6, "quantity": 2},
+        {"product_id": 9, "quantity": 1}
+      ]
+    },
+    {
+      "order_id": 3,
+      "name": "Ram",
+      "date": "2024-05-01",
+      "status": "Delivered",
+      "total_amount":"300",
+      "expected_delivery": "2024-05-09",
+      "products": [
+        {"product_id": 4, "quantity": 4},
+        {"product_id": 8, "quantity": 2}
+      ]
+    },
+    {
+      "order_id": 4,
+      "name": "Himanth",
+      "date": "2024-05-11",
+      "status": "Pending",
+      "total_amount":"900",
+      "expected_delivery": "2024-05-16",
+      "products": [
+        {"product_id": 10, "quantity": 3},
+        {"product_id": 12, "quantity": 1},
+        {"product_id": 15, "quantity": 2}
+      ]
+    },
+    {
+      "order_id": 5,
+      "name": "Akhil",
+      "date": "2024-05-29",
+      "status": "Shipped",
+      "total_amount":"370",
+      "expected_delivery": "2024-06-05",
+      "products": [
+        {"product_id": 18, "quantity": 1},
+        {"product_id": 20, "quantity": 2},
+        {"product_id": 23, "quantity": 1}
+      ]
+    } 
+]
