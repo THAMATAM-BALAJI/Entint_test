@@ -18,7 +18,7 @@ This is a frontend application for managing orders and products.
 
 git clone  
 
-2. Navigate to the project directory:
+2. Navigate to the project directory: https://github.com/THAMATAM-BALAJI/Entint_test
 
 cd ERP-Management
 
