@@ -16,9 +16,9 @@ This is a frontend application for managing orders and products.
 
 1. Clone this repository to your local machine:
 
-git clone  
+git clone  https://github.com/THAMATAM-BALAJI/Entint_test
 
-2. Navigate to the project directory: https://github.com/THAMATAM-BALAJI/Entint_test
+2. Navigate to the project directory: 
 
 cd ERP-Management
 
